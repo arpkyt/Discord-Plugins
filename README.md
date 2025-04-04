@@ -40,7 +40,7 @@ Preview will be updated soon but its perfectly working.
 
 ### 👉 For BetterDiscord Users:
 
-1. Download the plugin file: [`PhantomMute.plugin.js`](./FakeDefean.plugin.js)
+1. Download the plugin file: FakeDefean.plugin.js
 2. Place it in your BetterDiscord plugins folder:
 3. Enable it from the **Plugins** section in Discord settings.
 
